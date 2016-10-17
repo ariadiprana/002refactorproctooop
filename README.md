@@ -20,4 +20,6 @@ sequelize db:migrate
 npm start
 ```
 ### Capture
-<img src="./semantic/img/sc.png">
+<img src="./public/img/sc1.png">
+
+<img src="./public/img/sc2.png">
